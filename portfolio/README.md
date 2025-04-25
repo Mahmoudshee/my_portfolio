@@ -5,7 +5,7 @@
 Hey there! 👋 I'm Manu Bharadwaj, a passionate Software Engineer. Welcome to my Image Analysis Tool, designed to showcase the power of HTML, CSS, JavaScript & Google's Generative AI.
 
 ## About Me
-I'm Manu Bharadwaj, always exploring new technologies and creating innovative solutions.
+I'm kenty, always exploring new technologies and creating innovative solutions.
 
 ## Features
 Experience the following features in this project:
